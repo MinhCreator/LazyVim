@@ -21,7 +21,7 @@ return {
           "lazy",
           "lazyterm",
           "mason",
-          "neo-tree",
+          -- "neo-tree",
           "notify",
           "toggleterm",
           "Trouble",
